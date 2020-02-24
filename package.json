@@ -19,7 +19,7 @@
     "@angular/platform-browser": "~9.0.0",
     "@angular/platform-browser-dynamic": "~9.0.0",
     "@angular/router": "~9.0.0",
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.3.1",
     "install-peerdeps": "^2.0.1",
     "jquery": "^3.4.1",
     "ng2-cookies": "^1.0.12",
